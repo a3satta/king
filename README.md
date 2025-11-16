@@ -1,2 +1,4 @@
-# king
-This repository contains public information, updates, and resources related to Satta King results, charts, and number analysis.  It is created for educational and informational purposes only.
+# Satta King Information
+
+This repository provides number analysis, chart details, and informational content for educational purposes.  
+Visit the website for more details: https://a3satta.com
